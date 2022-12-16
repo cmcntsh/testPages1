@@ -11,3 +11,7 @@
 `backtick`
 
 <code>code tag</code>
+
+<mark>mark tag</mark>
+
+^^carats^^
