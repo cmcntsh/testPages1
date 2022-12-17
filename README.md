@@ -83,6 +83,12 @@ ${\color{lightblue}Light \space Blue}$
 
 before ${\color{lightblue}Light \space Blue}$ after
 
+### Final suggestions on how to use color in GitHub Markdown documents
+
+`$\color{lightgreen}{Change the color of text.}$`
+
+$\color{lightgreen}{Change the color of text.}$
+
 $${\color{black}Black}$$	
 
 $${\color{black}Black}$$
