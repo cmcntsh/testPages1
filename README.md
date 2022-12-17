@@ -97,6 +97,6 @@ $${\color{white}White}$$
 
 $\color{lightgreen}{Change \space the \space color \space of \space text.}$
 
-`$\colorbox{lightgreen}{Change the background color for text.$`
+`$\colorbox{lightgreen}{Change the background color for text.}$`
 
-$\colorbox{lightgreen}{Change the background color for text.$
+$\colorbox{lightgreen}{Change the background color for text.}$
