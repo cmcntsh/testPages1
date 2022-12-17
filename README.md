@@ -93,6 +93,8 @@ $${\color{white}White}$$
 
 ### Final suggestions on how to use color in GitHub Markdown documents
 
+GitHub will allow you to use some $\latex$ formatting in Markdown documents.
+
 `$\color{lightgreen}{Change \space the \space color \space of \space text.}$`
 
 $\color{lightgreen}{Change \space the \space color \space of \space text.}$
