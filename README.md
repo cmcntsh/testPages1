@@ -79,9 +79,9 @@ $${\color{blue}Blue}$$
 
 $${\color{blue}Blue}$$
 
-$${\color{lightblue}Light \space Blue}$$	
+${\color{lightblue}Light \space Blue}$
 
-$${\color{lightblue}Light \space Blue}$$
+before ${\color{lightblue}Light \space Blue}$ after
 
 $${\color{black}Black}$$	
 
